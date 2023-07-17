@@ -3,7 +3,7 @@ Produzione placchetta in alluminio
 
 Sviluppo disegno, quotatura, creazione modello 3D, simulazione tramite Fusion360 delle lavorazioni da eseguire con gli utensili presenti in officina
 
-UTENSILI: 
+UTENSILI:  
 Fresa a Spianare Ø20 3 Taglienti 90
 Punta per Foratura MDI Ø6.8
 Maschiatore Destrorso M8
